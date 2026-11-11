@@ -180,10 +180,10 @@ export default function Home() {
         </section>
 
         <section id="next" className="chapter">
-          <h2 className="display">Next: a PhD where this work can go further.</h2>
+          <h2 className="display">Next: a graduate program where this work can go further.</h2>
           <div className="prose">
             <p>I want to find more energy-efficient ways of doing things, in industry and in daily life, and put the evidence in a form people can use. When energy is used efficiently, the same supply reaches more people. That widens access to electricity and moves us toward sustainable energy.</p>
-            <p>I&rsquo;m applying for PhD scholarships in the United States, Canada, Europe and Asia.</p>
+            <p>I&rsquo;m applying for graduate programs scholarships in the United States, Canada, Europe and Asia.</p>
           </div>
           <h3 className="display">Beyond the lab</h3>
           <ul className="pubs">
